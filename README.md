@@ -10,7 +10,7 @@ Stack of technologies used:
 - _Python 3.10_
 
 > [!NOTE]
-> Link PyPI: [SquareCalcLib]([https://pages.github.com/](https://pypi.org/project/SquareCalcLib/0.0.4/))
+> Link PyPI: [SquareCalcLib](https://pypi.org/project/SquareCalcLib/0.0.4/)
 
 
 > [!NOTE]
