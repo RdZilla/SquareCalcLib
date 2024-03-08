@@ -28,8 +28,7 @@ Stack of technologies used:
 
 > [!NOTE]
 > NumberVariablesError 
-> The error class of the entered values
-> 
+> The error class of the entered values 
 > Types of errror:
 > - ZeroOrNegativeSemiAxis - semi-axis cannot be negative or equal to zero
 > - IncorrectValuesSidesTriangle - the values of the sides of a triangle cannot be negative
