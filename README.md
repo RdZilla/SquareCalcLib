@@ -27,5 +27,11 @@ Stack of technologies used:
 > - small_semi_axis: float = None - the value of the length of the small semi-axis of the ellipse
 
 > [!NOTE]
+> NumberVariablesError 
+> The error class of the entered values
 > 
-> 
+> Types of errror:
+> - ZeroOrNegativeSemiAxis - semi-axis cannot be negative or equal to zero
+> - IncorrectValuesSidesTriangle - the values of the sides of a triangle cannot be negative
+> - SumSidesTriangle - the value of any one side cannot be greater than the sum of the values of the other sides
+> - ValueAngleError - The angle cannot be less than or equal to zero or the angle cannot be more than 180 degrees
