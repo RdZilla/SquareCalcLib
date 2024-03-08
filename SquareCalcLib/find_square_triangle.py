@@ -9,7 +9,7 @@ def find_square_triangle(sides: list[float], angle: float = None) -> tuple[float
 
     import math
 
-    from NumberVariablesError import NumberVariablesError
+    from SquareCalcLib.NumberVariablesError import NumberVariablesError
 
     flag_rectangular_triangle = False
 

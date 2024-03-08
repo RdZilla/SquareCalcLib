@@ -7,7 +7,7 @@ def find_square_ellipse(large_semi_axis: float, small_semi_axis: float = None) -
     """
     import math
 
-    from NumberVariablesError import NumberVariablesError
+    from SquareCalcLib.NumberVariablesError import NumberVariablesError
 
     if large_semi_axis <= 0:
         raise NumberVariablesError('Incorrect value of the large semi-axis of the ellipse.\n'

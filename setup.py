@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='SquareCalcLib',
-    version='0.0.1',
+    version='0.0.5',
     author='Rzilla',
     author_email='pavel.eliseev.work@yandex.ru',
     description='A module for calculating the areas of an ellipse and a triangle.',
