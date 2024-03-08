@@ -10,6 +10,10 @@ Stack of technologies used:
 - _Python 3.10_
 
 > [!NOTE]
+> Link PyPI: [SquareCalcLib]([https://pages.github.com/](https://pypi.org/project/SquareCalcLib/0.0.4/))
+
+
+> [!NOTE]
 > All modules are located in ***["SquareCalcLib"](/SquareCalcLib)***
 
 > [!NOTE]
